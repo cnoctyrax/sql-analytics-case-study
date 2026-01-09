@@ -26,15 +26,18 @@ python -m venv .venv
 pip install -r requirements.txt
 python src/run.py
 
-Outputs
+## Outputs
+- SQLite database is created at: `data/db/analytics.db`
+- The database file is not committed (ignored) because it is generated at runtime
 
-SQLite database is created at: data/db/analytics.db
-The database file is not committed (ignored) because it is generated.
+## Example questions answered
+(see `sql/queries/queries.sql`)
 
-Example questions answered (see sql/queries/queries.sql)
+- Total revenue and revenue by month
+- Top customers and most sold products
+- Revenue by category and country
+- New vs returning customers by month
+- Ranking and running totals using window functions
 
-Total revenue and revenue by month
-Top customers and most sold products
-Revenue by category and country
-New vs returning customers by month
-Ranking and running totals using window functions
+## Why this project
+This project focuses on practical SQL analytics using realistic relational data and reproducible setup rather than dashboards or visualizations.

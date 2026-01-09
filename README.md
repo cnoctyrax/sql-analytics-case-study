@@ -20,7 +20,6 @@ CSV files stored in `data/raw/`:
 - `src/run.py` — builds SQLite DB and loads CSV data
 
 ## How to run
-```bash
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt

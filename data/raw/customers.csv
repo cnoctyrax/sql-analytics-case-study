@@ -1,0 +1,9 @@
+customer_id,full_name,city,country,signup_date
+C001,Anna Müller,Vienna,AT,2025-01-10
+C002,Tom Berger,Berlin,DE,2025-01-22
+C003,Mia Rossi,Milan,IT,2025-02-02
+C004,Luca Bianchi,Rome,IT,2025-02-15
+C005,Sophie Huber,Vienna,AT,2025-02-20
+C006,Jonas Klein,Hamburg,DE,2025-03-01
+C007,Emma Novak,Prague,CZ,2025-03-05
+C008,Noah Schmidt,Munich,DE,2025-03-12

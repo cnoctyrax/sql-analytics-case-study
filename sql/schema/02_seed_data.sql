@@ -1,0 +1,2 @@
+-- Seeding is done via CSV import in src/run.py
+-- This file is intentionally kept for structure and future SQL-based inserts.

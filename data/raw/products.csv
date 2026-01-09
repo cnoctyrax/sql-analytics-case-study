@@ -1,0 +1,10 @@
+product_id,product_name,category,unit_price
+P100,Wireless Mouse,Electronics,19.99
+P101,Mechanical Keyboard,Electronics,79.99
+P102,USB-C Cable,Electronics,9.99
+P200,Protein Powder,Health,29.99
+P201,Creatine Monohydrate,Health,14.99
+P300,Coffee Beans,Food,12.49
+P301,Green Tea,Food,8.99
+P400,Notebook,Office,3.49
+P401,Pens (Pack),Office,4.99
